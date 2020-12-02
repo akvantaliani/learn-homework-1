@@ -125,3 +125,4 @@ dmypy.json
 # Sensitive data
 settings.py
 *.txt
+*.csv
